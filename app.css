@@ -1,0 +1,21 @@
+body {
+    color:red;
+    background-color: silver;
+}
+.text-center {
+    text-align: center;
+}
+.text-green {
+    color: green;
+}
+#submitButton {
+    background-color: red;
+}
+[for="email"] {
+    font-weight: bold;
+    color: black;
+}
+[for="password"] {
+    color: black;
+    font-weight: bold;
+}
